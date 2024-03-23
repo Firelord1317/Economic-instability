@@ -24,12 +24,6 @@ Economic instability is a great challenge being faced by our planet Earth. Here 
 
 
 <h1><b><i><marquee>SUSTAINABLE SOLUTION FOR ECONOMIC INSTABILITY THROUGH TECHNOLOGY.</i></b></h1></marquee>
-</div>
-<style>table {
-  font-family: arial, sans-serif;
-  border-collapse: collapse;
-  width: 100%;
-}
 
 td, th {
   border: 1px solid #dddddd;
