@@ -25,23 +25,7 @@ Economic instability is a great challenge being faced by our planet Earth. Here 
 
 <h1><b><i><marquee>SUSTAINABLE SOLUTION FOR ECONOMIC INSTABILITY THROUGH TECHNOLOGY.</i></b></h1></marquee>
 
-td, th {
-  border: 1px solid #dddddd;
-  text-align: left;
-  padding: 8px;
-}
 
-tr:nth-child(even) {
-  background-color: #dddddd;
-}
-tr:hover {background-color: coral;}
-th {
-  background-color: #04AA6D;
-  color: white;
-}
-</style>
-<img src="EcoStability.png"width="20%">
-<body bgcolor="lightgreen"></body>
 <p style="color: ivory">Economic stability means that people have the resources essential to a healthy life. Factors affecting economic stability include affordable housing; employment that provides a living wage; things that support employment, like worker protections, paid sick leave, and child care; and access to reliable transportation.
 
 </p>
