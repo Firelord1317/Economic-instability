@@ -58,7 +58,6 @@ Economic instability is a great challenge being faced by our planet Earth. Here 
 
 <p style="color: ivory"><b>Here in Kenya we have had many cases of power outages because the hot weather is affecting hydropower plants in the country.Severe conditions like drought are really affecting our economy so we need to find an excellent solution.That solution is cloud seeding.</p></b>
 <p style="color: ivory"><b>Cloud seeding</b> is a weather modification technique that improves a cloud's ability to produce rain or snow by introducing tiny ice nuclei into certain types of subfreezing clouds. These nuclei provide a base for snowflakes to form.</p>
-<iframe width="1500" height="500" src="https://www.youtube.com/embed/jzQ_jWvCwxE" title="How This Country Creates Rain #401" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <p style="color: ivory">Check out the link below for more information on cloud seeding.</p>
 <nav style="color: ivory">
 	<a href="https://www.dri.edu/cloud-seeding-program/what-is-cloud-seeding/#:~:text=Cloud%20seeding%20is%20a%20weather,base%20for%20snowflakes%20to%20form.">Desert research institute</a>
