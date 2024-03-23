@@ -109,28 +109,7 @@ th {
 	<li style="color: ivory">Enhancing winter snowfall and increasing mountain snowpack</li>
 	<li style="color: ivory">Artificial rain is used to enhance water resources, benefit agriculture, prevent wildfires, and address water scarcity and drought conditions.</li>
 </ul>
-<h2 style="color: ivory">To donate to our cause fill in your details in the space provided.</h2>
-<fieldset>
-<label style="color: ivory">First Name</label>
-<input type="text" name=""><br><br>
-<label style="color: ivory">Last Name</label>
-<input type="text" name=""><br><br>
-<label style="color: ivory">Mobile Number</label>
-<input type="keypad" name=""><br><br>
-<label style="color: ivory">Amount you are donating.</label>
-<input type="text" name=""><br><br>
-<p style="color: ivory"></p>
-<p id="dem" style="color: ivory">Status:Not Submitted.</p>
 
-<button style="color: rgb(255, 255, 255)" class="btn waves-effect waves-light" type="submit" name="action" type="button" onclick='document.getElementById("dem").innerHTML = "Status:Submitted"'>Donate ❤</button>
- <button style="color: #fff;" type="reset" onClick="
-	 refreshPage()">Cancel ✖ </button>
-<script>
-function refreshPage() {
-    window.location.reload();
-}
-</script></fieldset>
- 
 
 <div>
 <footer><mark><p style="color: ivory">&copy Cloud seeding.Powered by Acacia Crest Academy.</p></footer></mark>
