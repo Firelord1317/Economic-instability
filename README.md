@@ -87,7 +87,7 @@ th {
 
 
 <h2 style="color: rgb(208, 255, 0)"><u><b>Cloud seeding.</h2></u></b>
-<img src="m.png"width="50%">
+<img src="file:///C:/Users/ADMIN/Desktop/New%20folder/webs/m.png"width="50%">
 
 <p style="color: ivory"><b>Here in Kenya we have had many cases of power outages because the hot weather is affecting hydropower plants in the country.Severe conditions like drought are really affecting our economy so we need to find an excellent solution.That solution is cloud seeding.</p></b>
 <p style="color: ivory"><b>Cloud seeding</b> is a weather modification technique that improves a cloud's ability to produce rain or snow by introducing tiny ice nuclei into certain types of subfreezing clouds. These nuclei provide a base for snowflakes to form.</p>
