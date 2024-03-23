@@ -39,7 +39,7 @@ th {
   background-color: #04AA6D;
   color: white;
 }
-</style
+</style>
 <img src="EcoStability.png"width="20%">
 <body bgcolor="lightgreen"></body>
 <p style="color: ivory">Economic stability means that people have the resources essential to a healthy life. Factors affecting economic stability include affordable housing; employment that provides a living wage; things that support employment, like worker protections, paid sick leave, and child care; and access to reliable transportation.
