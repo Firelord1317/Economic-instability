@@ -3,6 +3,29 @@ Economic instability is a great challenge being faced by our planet Earth. Here 
 <!DOCTYPE html>
 <html>
 <link rel="stylesheet" type="text/css" href="ab.css">
+	- ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `#1589F0`
+	<h2 style="color: ivory">To donate to our cause fill in your details in the space provided.</h2>
+<fieldset>
+<label style="color: ivory">First Name</label>
+<input type="text" name=""><br><br>
+<label style="color: ivory">Last Name</label>
+<input type="text" name=""><br><br>
+<label style="color: ivory">Mobile Number</label>
+<input type="keypad" name=""><br><br>
+<label style="color: ivory">Amount you are donating.</label>
+<input type="text" name=""><br><br>
+<p style="color: ivory"></p>
+<p id="dem" style="color: ivory">Status:Not Submitted.</p>
+
+<button style="color: rgb(255, 255, 255)" class="btn waves-effect waves-light" type="submit" name="action" type="button" onclick='document.getElementById("dem").innerHTML = "Status:Submitted"'>Donate ❤</button>
+ <button style="color: #fff;" type="reset" onClick="
+	 refreshPage()">Cancel ✖ </button>
+<script>
+function refreshPage() {
+    window.location.reload();
+}
+</script></fieldset>
+ 
 <head>
 	  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"><style>
 	
