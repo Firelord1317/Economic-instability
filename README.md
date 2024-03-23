@@ -122,8 +122,9 @@ th {
 <p style="color: ivory"></p>
 <p id="dem" style="color: ivory">Status:Not Submitted.</p>
 
-<button style="color: rgb(255, 255, 255)" class="btn waves-effect waves-light" type="submit" name="action" type="button" onclick='document.getElementById("dem").innerHTML = "Status:Submitted"'>Donate
- <i class="material-icons right">favorite</i></button><button style="color: #fff;" type="reset" onClick="refreshPage()">Cancel <i class="material-icons right">cancel</i></button>
+<button style="color: rgb(255, 255, 255)" class="btn waves-effect waves-light" type="submit" name="action" type="button" onclick='document.getElementById("dem").innerHTML = "Status:Submitted"'>Donate ❤</button>
+ <button style="color: #fff;" type="reset" onClick="
+	 refreshPage()">Cancel ✖ </button>
 <script>
 function refreshPage() {
     window.location.reload();
