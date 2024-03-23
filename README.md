@@ -5,19 +5,8 @@ Economic instability is a great challenge being faced by our planet Earth. Here 
 <link rel="stylesheet" type="text/css" href="ab.css">
 <head>
 	  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"><style>
-		.economy{
-			background-color: lightblue;
-			color: olive;
-			margin: 2px forestgreen;
-			padding: 20px;
-      border: 10px solid  forestgreen;
-		}
-		<style>
-.content {
-  max-width: 500px;
-  margin: auto;
-}
-</style>
+	
+
 <body>
 
 <div class="content">
@@ -114,7 +103,7 @@ th {
 <div>
 <footer><mark><p style="color: ivory">&copy Cloud seeding.Powered by Acacia Crest Academy.</p></footer></mark>
 </div>
-<script src="a.js"></script>
+
 </div>
 </body>
 </html>
