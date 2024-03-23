@@ -3,7 +3,7 @@ Economic instability is a great challenge being faced by our planet Earth. Here 
 <!DOCTYPE html>
 <html>
 <link rel="stylesheet" type="text/css" href="ab.css">
-	- ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `#1589F0`
+	
 	<h2 style="color: ivory">To donate to our cause fill in your details in the space provided.</h2>
 <fieldset>
 <label style="color: ivory">First Name</label>
