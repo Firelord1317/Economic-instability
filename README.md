@@ -4,7 +4,7 @@ Economic instability is a great challenge being faced by our planet Earth. Here 
 <html>
 <link rel="stylesheet" type="text/css" href="ab.css">
 <head>
-	  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"><style>
+	  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 	
 
 <body>
