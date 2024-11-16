@@ -13,11 +13,7 @@ Economic instability is a great challenge being faced by our planet Earth. Here 
   <!-- Page content -->
 </div>
 
-</body>
 
-	</style>
-
-	<title>Sustainable solutions for economic stablility through technology.</title>
 </head>
 <body>
 	<div class="economy">
